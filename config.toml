@@ -399,7 +399,7 @@ default = true
 [[sector_vertical_limit]]
 #comment= "MM with MM_EU connected and no one else"
 text = "245\r\n000"
-position = ["N043.01.11.054", "E006.06.56.045"]
+position = ["N045.13.10.183", "E004.41.42.965"]
 size = 30
 controller_me = "MM"
 controller_others=["MEU"]
